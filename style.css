@@ -44,6 +44,9 @@ h2 {
     margin: 0px 20px 0px 0px;
     float: left;
     width: 200px;
+    border-radius: 20px;
+    border-style: double;
+    border-color: black;
 }
 
 a {
@@ -52,6 +55,6 @@ a {
 }
 
 a:hover {
-    color: rgb(86, 12, 205);
+    color: rgb(255, 2, 179);
 }
 
